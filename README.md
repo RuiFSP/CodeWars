@@ -1,5 +1,4 @@
 # CodeWars
-my repository for code war solutions in different languages
 
 These are my solutions to [codewars](http://codewars.com). 
 My profile in codewars can be found [here](https://www.codewars.com/users/rui3). Languages used here are (at the moment):
