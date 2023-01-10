@@ -9,7 +9,7 @@ This is my Codewarrior Profile Badge, current status:
 
 
 * Java (mainly)
-* JavaScript (gdid alot in the past)
+* JavaScript (did a lot in the past)
 * Python (want to improve)
 * SQL (from time to time)
 * C++ (for the fun of it)
@@ -20,10 +20,10 @@ As stated above, this repo includes my own solutions and just posting them helps
 daily basis, and improve as a developer. But..., **please do not use them** to cheat on the platform! In this regard,
 I deeply encourage you to pay attention to the following guidelines:
 
-* Codewarriors are strongly encouraged not to look at my solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches.
-* Codewarriors should not submit my solutions as their own.
+* CodeWarriors are strongly encouraged not to look at my solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches.
+* CodeWarrior should not submit my solutions as their own.
 * I will not be accepting contributions of any form to this repo.
-* Creating a repository like this is discouraged by Codewars. (-> _in fact I had myself overlooked this one, sorry CW!_)
+* Creating a repository like this is discouraged by CodeWars. (-> _in fact I had myself overlooked this one, sorry CW!_)
 
 Thank you!
 
