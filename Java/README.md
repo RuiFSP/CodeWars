@@ -10,7 +10,7 @@ This is my Codewarrior Profile Badge, current status:
 
 * Java (mainly)
 * JavaScript (did a lot in the past)
-* Python (want to improve)
+* Python (want to improve in the future)
 * SQL (from time to time)
 * C++ (for the fun of it)
 
@@ -23,7 +23,6 @@ I deeply encourage you to pay attention to the following guidelines:
 * CodeWarriors are strongly encouraged not to look at my solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches.
 * CodeWarrior should not submit my solutions as their own.
 * I will not be accepting contributions of any form to this repo.
-* Creating a repository like this is discouraged by CodeWars. (-> _in fact I had myself overlooked this one, sorry CW!_)
 
 Thank you!
 
