@@ -14,7 +14,7 @@ Examples
  */
 
 
-public class SumOfDigits_DigitalRoot {
+public class SumOfDigitsDigitalRoot {
     public static int digital_root(int n) {
 
         //Wikipedia direct solution
