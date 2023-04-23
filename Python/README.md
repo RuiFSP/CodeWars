@@ -1,10 +1,7 @@
-## Solutions codewars kata\`s for Python 3.
+## Solutions codewars for Python.
 
-
-![Codewars Rank](https://www.codewars.com/users/NikolayZaytsev/badges/large)
 
 **Navigation:**
-
 
 [4KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/4%20kyu) 
 
