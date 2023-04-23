@@ -63,3 +63,4 @@ if __name__ == "__main__":
     assert parse_int('twenty') == 20
     assert parse_int('two hundred forty-six') == 246
     assert parse_int('seven hundred eighty-three thousand nine hundred and nineteen') == 783919
+    print('OK')
