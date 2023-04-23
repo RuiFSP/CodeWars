@@ -1,13 +1,12 @@
 ## Solutions codewars for Python.
 
 
-**Navigation:** 
-- [Folder - 4KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/4%20kyu) -> ["Playlist - 4KYU"](https://www.codewars.com/collections/pythonkyu4)
-- [Folder - 5KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/5%20kyu) -> ["Playlist - 5KYU](https://www.codewars.com/collections/pythonkyu5)
-- [Folder - 6KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/6%20kyu) -> ["Playlist - 6KYU"](https://www.codewars.com/collections/pythonkyu6)
-- [Folder - 7KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/7%20kyu) -> ["Playlist - 7KYU"](https://www.codewars.com/collections/pythonkata7)
-- [Folder - 8KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/8%20kyu) -> ["Playlist - 8KYU"](https://www.codewars.com/collections/pythonkyu8)
-
+**My CodeWars Playlists** 
+- [4-KYU - Playlist](https://www.codewars.com/collections/pythonkyu4)
+- [5-KYU - Playlist](https://www.codewars.com/collections/pythonkyu5)
+- [6-KYU - Playlist](https://www.codewars.com/collections/pythonkyu6)
+- [7-KYU - Playlist](https://www.codewars.com/collections/pythonkata7)
+- [8-KYU - Playlist](https://www.codewars.com/collections/pythonkyu8)
 
 
 ### 4 kyu:
