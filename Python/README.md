@@ -1,9 +1,7 @@
 ## Solutions codewars for Python.
 
 
-**Navigation:**
-
-[4KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/4%20kyu) 
+**Navigation:** [4KYU](https://github.com/RuiFSP/CodeWars/tree/main/Python/4%20kyu) 
 
 
 
