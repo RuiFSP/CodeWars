@@ -8,11 +8,10 @@ This is my Codewarrior Profile Badge, current status:
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/rui3/badges/large)
 
 
-* Java (mainly)
-* JavaScript (gdid alot in the past)
-* Python (want to improve)
-* SQL (from time to time)
-* C++ (for the fun of it)
+* Java 
+* JavaScript 
+* Python 
+
 
 **IMPORTANT NOTE:**
 
