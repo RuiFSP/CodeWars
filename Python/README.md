@@ -14,6 +14,7 @@
 
 ### 5 kyu:
 - [Rot3](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/rot3.py) - [[Link]](https://www.codewars.com/kata/530e15517bc88ac656000716)
+- [Common Denominators](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/convert_fracts.py) - [[Link]](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 
 ### 6 kyu:
 - [Roman Numerals Decoder](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/roman_numerals_decoder.py) - [[Link]](https://www.codewars.com/kata/51b6249c4612257ac0000005)

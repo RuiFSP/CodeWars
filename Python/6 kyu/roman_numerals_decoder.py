@@ -46,4 +46,4 @@ if __name__ == "__main__":
     assert solution("M") == 1000
     assert solution("MMM") == 3000
     assert solution("CMXCIX") == 999
-    print('OK')
+    print('Tests passed/')

@@ -17,4 +17,4 @@ if __name__ == "__main__":
     assert rot13('test') == 'grfg'
     assert rot13('Test') == 'Grfg'
     assert rot13('aA bB zZ 1234 *!?%') == 'nN oO mM 1234 *!?%'
-    print('OK')
+    print('Tests passed/')
