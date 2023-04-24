@@ -1,4 +1,4 @@
-package org.ruifsp.Kata4;
+package org.ruifsp.kata4;
 
 import org.junit.jupiter.api.Test;
 

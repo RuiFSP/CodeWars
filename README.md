@@ -1,16 +1,18 @@
 # CodeWars
+**Codewars** is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment.On Codewars the community and challenge progression is gamified, with users earning ranks and honor for completing kata, contributing kata, and quality solutions
 
-These are my solutions to [codewars](http://codewars.com). 
-My profile in codewars can be found [here](https://www.codewars.com/users/rui3). Languages used here are (at the moment):
+* My profile at codewars: [rui3](https://www.codewars.com/users/rui3). 
+* Join my clan 😀: <em><strong>Learn4Ever<strong><em>
 
 This is my Codewarrior Profile Badge, current status:
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/rui3/badges/large)
 
+Languages used here are (at the moment):
 
-* Java 
-* JavaScript 
-* Python 
+* [Java](https://github.com/RuiFSP/CodeWars/tree/main/Java)
+* [JavaScript](https://github.com/RuiFSP/CodeWars/tree/main/JavaScript) 
+* [Python](https://github.com/RuiFSP/CodeWars/tree/main/Python) 
 
 
 **IMPORTANT NOTE:**
