@@ -16,6 +16,7 @@
 - [Rot3](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/rot3.py) - [[Link]](https://www.codewars.com/kata/530e15517bc88ac656000716)
 - [Common Denominators](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/convert_fracts.py) - [[Link]](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 - [Disassembling the secret](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/find_the_secret.py) - [[Link]](https://www.codewars.com/kata/59b5896322f6bbe260002aa0)
+- [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
 - [Roman Numerals Decoder](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/roman_numerals_decoder.py) - [[Link]](https://www.codewars.com/kata/51b6249c4612257ac0000005)
