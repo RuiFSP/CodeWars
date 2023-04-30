@@ -20,6 +20,7 @@
 
 ### 6 kyu:
 - [Roman Numerals Decoder](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/roman_numerals_decoder.py) - [[Link]](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+- [Multiplication Table](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/multiplication_table.py) - [[Link]](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 
 ### 7 kyu:
 - [List Filtering](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/list_filtering.py) - [[Link]](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
