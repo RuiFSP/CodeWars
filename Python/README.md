@@ -13,6 +13,7 @@
 - [Parse Int Reload](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/parse_int_reload.py) - [[Link]](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 
 ### 5 kyu:
+- [Moving Zeros To The End](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/move_zeros.py) - [[Link]](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - [Rot3](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/rot3.py) - [[Link]](https://www.codewars.com/kata/530e15517bc88ac656000716)
 - [Common Denominators](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/convert_fracts.py) - [[Link]](https://www.codewars.com/kata/54d7660d2daf68c619000d95)
 - [Disassembling the secret](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/find_the_secret.py) - [[Link]](https://www.codewars.com/kata/59b5896322f6bbe260002aa0)
