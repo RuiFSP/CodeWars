@@ -21,6 +21,7 @@
 - [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
+- [Who Likes It](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/likes.py) - [[Link]](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 - [Split Strings](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/split_strings.py) - [[Link]](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001)
 - [Roman Numerals Decoder](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/roman_numerals_decoder.py) - [[Link]](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - [Multiplication Table](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/multiplication_table.py) - [[Link]](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
@@ -36,6 +37,7 @@
 - [Check the exam](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/check_the_exam.py) - [[Link]](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 
 ### 8 kyu:
+- [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 - [Remove Duplicates](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/remove_duplicates.py) - [[Link]](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
 - [Correct Mistakes](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/correct_mistakes.py) - [[Link]](https://www.codewars.com/kata/577bd026df78c19bca0002c0)
 - [Plural](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/plural.py) - [[Link]](https://www.codewars.com/kata/52ceafd1f235ce81aa00073a)
