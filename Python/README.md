@@ -10,6 +10,7 @@
 
 
 ### 4 kyu:
+- [Smallest possible sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/smallesy_possible_sum.py) - [[Link]](https://www.codewars.com/kata/52f677797c461daaf7000740)
 - [Parse Int Reload](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/parse_int_reload.py) - [[Link]](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 
 ### 5 kyu:
