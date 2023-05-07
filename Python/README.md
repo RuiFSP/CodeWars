@@ -14,7 +14,7 @@
 - [Parse Int Reload](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/parse_int_reload.py) - [[Link]](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 
 ### 5 kyu:
-- [Maximum subarry sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/maximum_subarray_sum.py) - [[Link]](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
+- [Maximum subarray sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/maximum_subarray_sum.py) - [[Link]](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 - [Simple Pig Latin](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/pig_it.py) - [[Link]](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 - [Scrambles](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/scramble.py) - [[Link]](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
 - [Moving Zeros To The End](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/move_zeros.py) - [[Link]](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
