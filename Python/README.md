@@ -24,6 +24,7 @@
 - [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
+- [Alphabetized](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/alphabetized.py) - [[Link]](https://www.codewars.com/kata/5970df092ef474680a0000c9)
 - [Multiples of 3 or 5](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/solution.py) - [[Link]](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Count characters in your string](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/count.py) - [[Link]](https://www.codewars.com/kata/52efefcbcdf57161d4000091)
 - [Find the odd int](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/find_it.py) - [[Link]](https://www.codewars.com/kata/54da5a58ea159efa38000836)
@@ -33,6 +34,7 @@
 - [Multiplication Table](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/multiplication_table.py) - [[Link]](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 
 ### 7 kyu:
+- [Factorial](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/factorial.py) - [[Link]](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/)
 - [Find the capitals](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/capitals.py) - [[Link]](https://www.codewars.com/kata/539ee3b6757843632d00026b)
 - [List Filtering](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/list_filtering.py) - [[Link]](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 - [Remove the minimum](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/remove_the_minimum.py) - [[Link]](https://www.codewars.com/kata/563cf89eb4747c5fb100001b)
