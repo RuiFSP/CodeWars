@@ -35,7 +35,9 @@
 - [Roman Numerals Decoder](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/roman_numerals_decoder.py) - [[Link]](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - [Multiplication Table](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/multiplication_table.py) - [[Link]](https://www.codewars.com/kata/534d2f5b5371ecf8d2000a08)
 
+
 ### 7 kyu:
+- [The Coupon Code](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/checko_coupon.py) - [[Link]](https://www.codewars.com/kata/539de388a540db7fec000642)
 - [Sum of Minimums](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/sum_of_minimus.py) - [[Link]](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699)
 - [Factorial](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/factorial.py) - [[Link]](https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc/)
 - [Find the capitals](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/capitals.py) - [[Link]](https://www.codewars.com/kata/539ee3b6757843632d00026b)
