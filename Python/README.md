@@ -10,8 +10,7 @@
 - [8-KYU - Playlist](https://www.codewars.com/collections/pythonkyu8)
 
 ### 3 kyu:
-- [Fabergé Easter Eggs crush test](...) - [[Link]](https://www.codewars.com/kata/54cb771c9b30e8b5250011d4)
-
+- [Fabergé Easter Eggs crush test](https://github.com/RuiFSP/CodeWars/blob/main/Python/3%20kyu/faberge_eggs.py) - [[Link]](https://www.codewars.com/kata/54cb771c9b30e8b5250011d4)
 
 ### 4 kyu:
 - [Sum by Factors](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/sum_for_list.py) - [[Link]](https://www.codewars.com/kata/54d496788776e49e6b00052f)
