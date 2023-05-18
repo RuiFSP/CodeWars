@@ -54,7 +54,8 @@
 - [Check the exam](https://github.com/RuiFSP/CodeWars/blob/main/Python/7%20kyu/check_the_exam.py) - [[Link]](https://www.codewars.com/kata/5a3dd29055519e23ec000074)
 
 ### 8 kyu:
-- [find the position](...) - [[Link]](https://www.codewars.com/kata/5808e2006b65bff35500008f)
+- [Parse ncie int from char problem](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/get_age.py) - [[Link]](https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1)
+- [find the position](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/find_the_position.py) - [[Link]](https://www.codewars.com/kata/5808e2006b65bff35500008f)
 - [Reverse List Order](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/reverse_list.py) - [[Link]](https://www.codewars.com/kata/53da6d8d112bd1a0dc00008b)
 - [Get the mean of an Array](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/mean_array.py) - [[Link]](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 - [Remove Duplicates](https://github.com/RuiFSP/CodeWars/blob/main/Python/8%20kyu/remove_duplicates.py) - [[Link]](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118)
