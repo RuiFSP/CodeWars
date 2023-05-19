@@ -28,7 +28,7 @@
 - [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
-- [Create Phone Number](Python/6 kyu/create_phone_number.py) - [[Link]](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+- [Create Phone Number](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/create_phone_number.py) - [[Link]](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Stop gninnipS My sdroW!](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/spin_words.py) - [[Link]](https://www.codewars.com/kata/5264d2b162488dc400000001) 
 - [Alphabetized](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/alphabetized.py) - [[Link]](https://www.codewars.com/kata/5970df092ef474680a0000c9)
 - [Multiples of 3 or 5](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/solution.py) - [[Link]](https://www.codewars.com/kata/514b92a657cdc65150000006)
