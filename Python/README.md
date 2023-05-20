@@ -18,6 +18,7 @@
 - [Parse Int Reload](https://github.com/RuiFSP/CodeWars/blob/main/Python/4%20kyu/parse_int_reload.py) - [[Link]](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 
 ### 5 kyu:
+- [Human Readable Time](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/make_readable.py) - [[Link]](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - [Maximum subarray sum](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/maximum_subarray_sum.py) - [[Link]](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 - [Simple Pig Latin](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/pig_it.py) - [[Link]](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 - [Scrambles](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/scramble.py) - [[Link]](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
@@ -28,6 +29,7 @@
 - [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
+- [Bit Counting](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/count_bits.py) - [[Link]](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 - [Create Phone Number](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/create_phone_number.py) - [[Link]](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Stop gninnipS My sdroW!](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/spin_words.py) - [[Link]](https://www.codewars.com/kata/5264d2b162488dc400000001) 
 - [Alphabetized](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/alphabetized.py) - [[Link]](https://www.codewars.com/kata/5970df092ef474680a0000c9)
