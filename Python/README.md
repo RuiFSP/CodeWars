@@ -29,6 +29,7 @@
 - [Calculating with functions](https://github.com/RuiFSP/CodeWars/blob/main/Python/5%20kyu/calc_with_funcs.py) - [[Link]](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 ### 6 kyu:
+- [The Vowel Code](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/the_vowel_code.py - [[Link]])(https://www.codewars.com/kata/53697be005f803751e0015aa)
 - [Bit Counting](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/count_bits.py) - [[Link]](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 - [Create Phone Number](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/create_phone_number.py) - [[Link]](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Stop gninnipS My sdroW!](https://github.com/RuiFSP/CodeWars/blob/main/Python/6%20kyu/spin_words.py) - [[Link]](https://www.codewars.com/kata/5264d2b162488dc400000001) 
