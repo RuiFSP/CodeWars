@@ -109,3 +109,4 @@ if __name__ == "__main__":
     assert path_finder(e) == 14
     assert path_finder(f) == 0
     assert path_finder(g) == 4
+    print("All tests passed successfully!")
