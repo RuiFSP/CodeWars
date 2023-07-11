@@ -36,7 +36,7 @@ def determinant(matrix: List[List[float]]) -> float:
     return det
 
 
-# alternative solution
+# -- alternative solution --
 # import numpy as np
 #
 # def determinant(a):
