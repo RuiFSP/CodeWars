@@ -1,5 +1,6 @@
 from typing import List
 
+
 def divisible_by(numbers: List[int], divisor: int) -> List[int]:
     """
     Returns a list of numbers from the input list that are divisible by the given divisor.
