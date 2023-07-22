@@ -3,7 +3,7 @@ def litres(time: float) -> int:
     Given time in hours, return the number of litres of water
     you should drink to stay hydrated.
     """
-    return int(time * 0.5) if time > 0 else 0
+    return int(time * 0.5)
 
 
 if __name__ == "__main__":
