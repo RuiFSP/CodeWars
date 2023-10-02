@@ -21,3 +21,4 @@ if __name__ == "__main__":
     assert pyramid(2) == [[1], [1, 1]]
     assert pyramid(3) == [[1], [1, 1], [1, 1, 1]]
     print("All tests passed")
+    
