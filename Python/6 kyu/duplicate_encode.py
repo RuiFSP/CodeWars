@@ -1,30 +1,30 @@
-def duplicate_encode(word):
+""" 
+The goal of this exercise is to convert a string to a new string where each character 
+in the new string is "(" if that character appears only once in the original string, or ")" 
+if that character appears more than once in the original string. Ignore capitalization when determining 
+if a character is a duplicate.
+
+Examples
+"din"      =>  "((("
+"recede"   =>  "()()()"
+"Success"  =>  ")())())"
+"(( @"     =>  "))((" 
+Notes
+Assertion messages may be unclear about what they display in some languages.
+If you read "...It Should encode XXX", the "XXX" is the expected result, not the input! 
+"""
+
+
+def duplicate_encode(word:str) -> str:
     # Convert the word to lowercase
     word = word.lower()
 
-    # Initialize an empty string to store the result
-    result = ""
+    # Create a dictionary to store the counts of each letter using a dictionary comprehension
+    letter_counts = {letter: word.count(letter) for letter in word}
 
-    # Create a dictionary to store the counts of each letter
-    letter_counts = {}
+    # Use a list comprehension to generate the result string
+    result = ''.join([')' if letter_counts[letter] > 1 else '(' for letter in word])
 
-    # Count the occurrences of each letter in the word
-    for letter in word:
-        # Use the get() method to retrieve the count of a letter from letter_counts
-        # If the letter is not in the dictionary, return 0 and add 1 to it
-        # If the letter is already in the dictionary, return its value and add 1 to it
-        letter_counts[letter] = letter_counts.get(letter, 0) + 1
-
-    # Iterate over each letter in the word
-    for letter in word:
-        # If the count of the letter is greater than 1, add ')' to the result
-        if letter_counts[letter] > 1:
-            result += ")"
-        # Otherwise, add '(' to the result
-        else:
-            result += "("
-
-    # Return the final result
     return result
 
 
