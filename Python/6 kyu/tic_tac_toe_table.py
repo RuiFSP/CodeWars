@@ -32,7 +32,9 @@ def display_board(board:list, width:int) -> str:
     row_strings = []
     for i in range(0, len(board), width):
         row = board[i:i + width]
+        print(row)
         row_str = " | ".join(row)
+        print(row_str)
         row_strings.append(f" {row_str} ")
 
         if i < len(board) - width:  # Check if it's not the last row

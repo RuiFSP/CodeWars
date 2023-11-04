@@ -54,10 +54,10 @@ def is_colorful(num):
     return True
 
 if __name__ == "__main__":
-    # assert is_colorful(263) == True
-    # assert is_colorful(236) == False
-    # assert is_colorful(122) == False
-    # assert is_colorful(1) == True
-    # assert is_colorful(0) == True
+    assert is_colorful(263) == True
+    assert is_colorful(236) == False
+    assert is_colorful(122) == False
+    assert is_colorful(1) == True
+    assert is_colorful(0) == True
     assert is_colorful(112233) == False
     print("All tests passed")
