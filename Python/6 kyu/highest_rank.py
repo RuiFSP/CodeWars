@@ -11,7 +11,6 @@ def highest_rank(arr: list) -> int:
     
     count_dict = {}
     
-    
     for num in arr:
         if num in count_dict:
             count_dict[num] += 1
@@ -20,10 +19,8 @@ def highest_rank(arr: list) -> int:
     
     
     max_count = max(count_dict.values())
-    
-    
+     
     result = None
-    
     
     for num, count in count_dict.items():
         if count == max_count:
