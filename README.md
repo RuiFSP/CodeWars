@@ -6,7 +6,7 @@
 
 This is my Codewarrior Profile Badge, current status:
 
-![My Codewarrior Profile Badge][(https://www.codewars.com/users/rui3/badges/large](https://www.codewars.com/users/Rui%20Pinto/badges/large)
+![My Codewarrior Profile Badge][(https://www.codewars.com/users/rui3/badges/large](https://www.codewars.com/users/Rui%20Pinto/badges/large))
 
 Languages used here are (at the moment):
 
